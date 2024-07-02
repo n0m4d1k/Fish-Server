@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Sent</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            text-align: center;
+        }
+        .button {
+            background-color: #007BFF;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-top: 20px;
+        }
+        .button:active {
+            background-color: #0056b3;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 18px;
+            color: #007BFF;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <p style="font-size: 24px; margin: 0;">You sent $55.00 to netafa9912@vimemail.com</p>
+        <p style="font-size: 18px; margin: 10px 0;">We'll send them an email, but it may be quicker to share this link with them.</p>
+        <button class="button" onclick="shareLink()">Share This Link</button>
+        <div class="footer" onclick="done()">Done</div>
+    </div>
+
+</body>
+</html>

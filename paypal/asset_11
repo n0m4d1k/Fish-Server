@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html lang="en" class="no-js lower-than-ie9" ><![endif]-->
+<!--[if lt IE 10]><html lang="en" class="no-js lower-than-ie10" ><![endif]-->
+<!--[if !IE]>--><html lang="en" class="no-js" ><!--<![endif]-->
+    <head>
+        
+                <script src="https://www.paypalobjects.com/pa/js/pa.js"></script>
+                    
+                
+                <script nonce="auaXxY8h0u3L/nSyWD1tAaejc6Nilq2HRxVQHgCZDxik0ZcM">
+                    (function(){
+                        if(typeof PAYPAL.analytics != "undefined"){
+                            PAYPAL.core = PAYPAL.core || {};
+                            PAYPAL.core['pta'] = PAYPAL.analytics.setup({data:'pgrp=authchallengenodeweb%2Flayouts%2Fmaster.html.dust&page=authchallengenodeweb%2Flayouts%2Fmaster.html.dust&pgst=1716214703676&calc=f407672b7e899&nsid=-MbaKgroOpYd2d9UUZ1QNPOyF5I-_Yu-&rsta=en_US&pgtf=Nodejs&env=live&s=ci&ccpg=US&csci=ef6aaf1d1c4d450196c54ffa54fd2290&comp=authchallengenodeweb&tsrce=authchallengenodeweb&cu=0&ef_policy=ccpa', url:'https://t.paypal.com/ts'});
+                        }
+                    }());
+                </script>
+                <noscript><img src="https:https://t.paypal.com/ts?nojs=1&pgrp=authchallengenodeweb%2Flayouts%2Fmaster.html.dust&page=authchallengenodeweb%2Flayouts%2Fmaster.html.dust&pgst=1716214703676&calc=f407672b7e899&nsid=-MbaKgroOpYd2d9UUZ1QNPOyF5I-_Yu-&rsta=en_US&pgtf=Nodejs&env=live&s=ci&ccpg=US&csci=ef6aaf1d1c4d450196c54ffa54fd2290&comp=authchallengenodeweb&tsrce=authchallengenodeweb&cu=0&ef_policy=ccpa" alt="" height="1" width="1" border="0"></noscript>
+            
+        <!--            Script info: script: node, template:  , date: May 20, 2024 07:18:23 -07:00, country: US, language: en             web version:  content version:              hostname : rZJvnqaaQhLn/nmWT8cSUjOx898qoYZ05tvEDgkMCf9N2qrYfC2H3uhCEz528y0a7skiGlN9h2w rlogid : rZJvnqaaQhLn%2FnmWT8cSUg%2BFylqOCirdIeAbpcXPG%2BTV1WXqg%2BH71GoZAQtjsGshP%2FtsUOH2c9r6J3%2B8D7RZGiPN%2FKffdP0H_18f965e263c                     -->
+        <meta charset="utf-8" />
+        <title></title>
+         <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><meta name="application-name" content="PayPal" /><meta name="msapplication-task" content="name=My Account;action-uri=https://www.paypal.com/us/cgi-bin/webscr?cmd=_account;icon-uri=http://www.paypalobjects.com/en_US/i/icon/pp_favicon_x.ico" /><meta name="msapplication-task" content="name=Send Money;action-uri=https://www.paypal.com/us/cgi-bin/webscr?cmd=_send-money-transfer&amp;send_method=domestic;icon-uri=http://www.paypalobjects.com/en_US/i/icon/pp_favicon_x.ico" /><meta name="msapplication-task" content="name=Request Money;action-uri=https://personal.paypal.com/cgi-bin/?cmd=_render-content&amp;content_ID=marketing_us/request_money;icon-uri=http://www.paypalobjects.com/en_US/i/icon/pp_favicon_x.ico" /><meta name="keywords" content="transfer money, email money transfer, international money transfer " /><meta name="description" content="Transfer money online in seconds with PayPal money transfer. All you need is an email address." /><link rel="shortcut icon" href="https://www.paypalobjects.com/en_US/i/icon/pp_favicon_x.ico" /><link rel="apple-touch-icon" href="https://www.paypalobjects.com/en_US/i/pui/apple-touch-icon.png" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=yes" /><meta key="head_tag_robots" name="robots" content="noindex,nofollow" />
+        <link rel="stylesheet" href="https://www.paypalobjects.com/web/res/c2e/f2d0e04ebfa957c5d0f0ca99a1a8c/css/app.css" />
+        <!--[if lte IE 9]>
+        <link rel="stylesheet" href="https://www.paypalobjects.com/web/res/c2e/f2d0e04ebfa957c5d0f0ca99a1a8c/css/ie9.css " />
+        <![endif]-->
+        <script src="https://www.paypalobjects.com/web/res/c2e/f2d0e04ebfa957c5d0f0ca99a1a8c/js/lib/modernizr-2.6.1.js"></script>
+    </head>
+    <body  data-view-name="authcaptcha"
+    data-template-path="https://www.paypalobjects.com/web/res/c2e/f2d0e04ebfa957c5d0f0ca99a1a8c/templates/US/en/%s.js"
+    data-csrf-token="vk8wu2zglesJHwV49omFTtlFqVWAz70ouWzg8="  
+    data-locale="en_US">
+        <noscript>
+            <p class="nonjsAlert" role="alert">
+                NOTE: Many features on the PayPal Web site require Javascript and cookies.
+            </p>
+        </noscript>
+
+		<!-- id should be first parameter -->
+		<div id="main" role="main">
+			<div id="ads-plugin"><div class="container-fluid" id="captcha-standalone" data-app="authchallenge_response" data-captcha-type="recaptcha" data-disable-autosubmit="true"  data-jse="5ad2b9c5d862cccd4ab2078c8646ac4d"  data-csrf="vk8wu2zglesJHwV49omFTtlFqVWAz70ouWzg8=" data-empty-token-enum-val="STOP_SUBMISSION"  >   <div class="corral" >          <div id="content" class="contentContainer "><header><p class="paypal-logo paypal-logo-monogram">PayPal</p></header><h1 align="center" class="headerText" style="font-family:">Security Challenge</h1><form  action="/auth/validatecaptcha" method="post" name="challenge" novalidate> <input type="hidden" name="_recaptchaEnterpriseEnabled" value="true"/><input type="hidden" name="_adsRecaptchaSiteKey" value="6LeZ6egUAAAAAGwL8CjkDE8dcSw2DtvuVpdwTkwG"/><iframe src="https://www.paypalobjects.com/web/res/c2e/f2d0e04ebfa957c5d0f0ca99a1a8c/recaptcha/recaptcha_v2.html?siteKey=6LeZ6egUAAAAAGwL8CjkDE8dcSw2DtvuVpdwTkwG&locale.x=en_US&country.x=US&checkConnectionTimeout=10000&reCaptchaEnterpriseEnabled=true" height="500" width="100%25" name="recaptcha" align="middle" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>   <div class="actions"><button class="button actionContinue"style="background-color:"type="submit"id="continue"name="continue"value="Continue">Continue</button></div><input type="hidden" name="_csrf" value="vk8wu2zglesJHwV49omFTtlFqVWAz70ouWzg8=" /><input type="hidden" name="_requestId" value="XpESD8TGPCXZ98G5qp68VpLeRp-PrEgjI5hUFdHpw29h-iz1kamAI8AApDr_CrV1TU03az2DTDcFu9cNv_uKsu7Zj4lMLx85GAOn3XwVPU-YUzumOI_nBSFjk3NpAgMP" /><input type="hidden" name="_hash" value="JEO5p9o5EpEvzJUm4loLnnbMMsuj6nX8g4WRBA3MEE4=" /><input type="hidden" name="grc_eval_start_time_utc" value="1716214703690"/>    <input type="hidden" id="session" name="_sessionID" value="-MbaKgroOpYd2d9UUZ1QNPOyF5I-_Yu-"/><noscript><input type="hidden" name="jsd" value="406f82750cabb6ba9b7b36811b101e0f" /></noscript></form></div></div></div><script type="text/javascript" data-name="authchallenge" src="https://www.paypalobjects.com/web/res/c2e/f2d0e04ebfa957c5d0f0ca99a1a8c/js/authchallenge.js" async></script></div><div id="ads-plugin-end"></div>
+		</div>
+		<div class="transitioning hide">
+		</div>
+        <script data-main="https://www.paypalobjects.com/web/res/c2e/f2d0e04ebfa957c5d0f0ca99a1a8c/js/config" src="https://www.paypalobjects.com/web/res/c2e/f2d0e04ebfa957c5d0f0ca99a1a8c/js/lib/require.js"></script>
+    </body>
+       
+</html>
